@@ -208,7 +208,7 @@ body > div:nth-child(2){
 
 body > div:nth-child(2).active{
   /* left: calc(100% - 250px); */
-  height: 300px;
+  height: 350px;
 }
 
 body > div:nth-child(2) a{
